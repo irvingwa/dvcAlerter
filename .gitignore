@@ -4,3 +4,4 @@ target
 !.settings/.jsdtscope
 .project
 .classpath
+pom.xml.versionsBackup
