@@ -28,5 +28,4 @@ public class SiteUrls {
 	
 	public static final String DVC_MAGIC_RESALES = "http://www.dvcmagicresales.com/web/lists/dvc-listings";
 	
-	public static final String DVC_RESALE_MARKET = "http://www.dvcresalemarket.com/listings/";
 }
